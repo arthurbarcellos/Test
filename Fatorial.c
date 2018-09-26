@@ -11,4 +11,7 @@ fat = fat * n;
 
 printf("\nFatorial calculado: %d", fat);
 return 0;
+
+n = 0;
+
 }
