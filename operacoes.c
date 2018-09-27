@@ -12,4 +12,6 @@ mult = a * b;
 div = a / b;
 pot = a*a;
 
+result = soma + sub + mult + div;
+
 }
