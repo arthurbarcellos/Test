@@ -10,5 +10,6 @@ soma = a + b;
 sub = a - b;
 mult = a * b;
 div = a / b;
+pot = a*a;
 
 }
